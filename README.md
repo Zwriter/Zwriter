@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1 align="center"> Hello, I'm Robert Nicolae 👋 </h1>
 
-<!--
-**Zwriter/Zwriter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+## 🔍 About Me
 
-Here are some ideas to get you started:
+Technology has always fascinated me, especially its impact on society. This passion led me to study computer science, where I developed strong skills in programming and systems administration. I am organized, eager to learn, and focused on finding effective solutions. Currently, I am particularly passionate about machine learning and AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ⚡ Fun facts:
+- I've started learnign PCB design in my spare time
+- I'm curently looking into integrating AI and Robotics 🤖
+- My favourite game is Hollowknight
+- **Hobies**: gym, playing basketball,  gaming

@@ -9,7 +9,7 @@ Technology has always fascinated me, especially its impact on society. This pass
 
 ## 🏆 Notable Projects
 
-### [Voice-To-Voiceless](https://github.com/Voice-To-Voiceless/Voice-To-Voiceless)
+### 📢 [Voice-To-Voiceless](https://github.com/Voice-To-Voiceless/Voice-To-Voiceless)
 
 Assistive communication platform for people who cannot communicate through speech, built by a team of 4. It combines an accessible visual communication board with gaze-based interaction, facial-expression input, and a patient-to-care-team notification channel.
 
@@ -23,7 +23,7 @@ Assistive communication platform for people who cannot communicate through speec
 
 ---
 
-### [Forma](https://github.com/Zwriter/Forma-ML-data-preparation)
+### 📋 [Forma](https://github.com/Zwriter/Forma-ML-data-preparation)
 
 Open-source desktop app for exploring, profiling, cleaning, and transforming large datasets through a visual interface. It helps data scientists and ML engineers prepare datasets without rewriting the same preprocessing scripts. All processing runs locally, with no cloud hosting, Docker, or external backend required.
 
@@ -35,7 +35,7 @@ Open-source desktop app for exploring, profiling, cleaning, and transforming lar
 
 ---
 
-### [Bookwise](https://github.com/Zwriter/Bookwise-Smart-Librarian)
+### 📕 [Bookwise](https://github.com/Zwriter/Bookwise-Smart-Librarian)
 
 Full-stack book recommendation application. A React frontend sends natural-language questions to a FastAPI backend, which combines input filtering, semantic retrieval from a Chroma catalogue, OpenAI recommendations, local summaries, and Google Books fallback search.
 
